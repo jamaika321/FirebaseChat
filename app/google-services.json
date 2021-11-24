@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "857785351561",
+    "firebase_url": "https://chat-aff84-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "chat-aff84",
+    "storage_bucket": "chat-aff84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857785351561:android:f79c50b3b4b3ce9ac6b558",
+        "android_client_info": {
+          "package_name": "ru.radiknasybullin.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857785351561-ehohrgau73nta71sh5ejfgn2dk9haudu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.radiknasybullin.chatapp",
+            "certificate_hash": "a888a8919945aff7744ac134b6e939d6d7eed991"
+          }
+        },
+        {
+          "client_id": "857785351561-nk3odehtjnjkgv7lqv6n7b42eknt70dt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1-ZpsKhyTU3xHP092mLPVWJKPkswulYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857785351561-nk3odehtjnjkgv7lqv6n7b42eknt70dt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

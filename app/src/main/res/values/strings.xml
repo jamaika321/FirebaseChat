@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile_name_string">Имя</string>
+    <string name="profile_name_warning">Это не имя пользователя или пароль. Данное имя будут видеть ваши контакты в WhatsApp.</string>
+    <string name="profile_phone">Телефон</string>
+</resources>
